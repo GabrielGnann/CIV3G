@@ -199,8 +199,9 @@ ul li{
 	background-image:radial-gradient(circle at 44% 37%, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)), url('../img/code.jpg');
 }
 
+
 .btn {
-	cursor: default;
+	cursor: pointer;
 	border: none;
 	font-family: inherit;
 	font-size: inherit;
